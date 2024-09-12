@@ -7,3 +7,8 @@ Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (prog
 * Belajar Konsep Dasar Pemrograman.
 * Belajar Perencanaan Modifikasi Aplikasi.
 * Belajar Memahami Kebutuhan Aplikasi.
+
+12 September 2024
+Belajar kelas Belajar Dasar Git dengan GitHub (progres 39%)
+* Belajar Git dah GitHub.
+* Belajar Dasar Git.
